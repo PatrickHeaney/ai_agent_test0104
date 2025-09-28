@@ -1,0 +1,9 @@
+[submodule "example_code/ai-agent-mastery"]
+	path = example_code/ai-agent-mastery
+	url = https://github.com/dynamous-community/ai-agent-mastery.git
+[submodule "example_code/ai_tutor_test2"]
+	path = example_code/ai_tutor_test2
+	url = https://github.com/PatrickHeaney/ai_tutor_test2.git
+[submodule "example_code/ai_agent_test0103"]
+	path = example_code/ai_agent_test0103
+	url = https://github.com/PatrickHeaney/ai_agent_test0103.git
