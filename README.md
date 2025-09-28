@@ -9,6 +9,11 @@ The current version focuses on the core conversation loop.
 *   **Goal**: Create the simplest possible, runnable agent.
 *   **Functionality**: A user can start the terminal UI, have a basic conversation with the agent (no tools, no memory), and the agent will respond using the LLM.
 
+## Future Iterations
+
+- **Iteration 2:** Adding conversational memory.
+- **Iteration 3:** Adding a web search tool.
+
 ## Project Structure
 
 ```

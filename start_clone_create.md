@@ -16,7 +16,7 @@ That's it! Your repository is now a template.
 
 Now, anytime you want to start a new project based on this template, follow these simple steps.
 
-### 1. Use the Template
+### 1. ✅ Use the Template
 A new green button, **Use this template**, will now be visible on your repository's page.
 
 1.  Click the **Use this template** button.
@@ -26,7 +26,7 @@ A new green button, **Use this template**, will now be visible on your repositor
 
 GitHub will automatically create a brand-new repository, copying all the files from `_new_prj` but giving it a fresh, clean history.
 
-### 2. Clone Your New Repository
+### 2. ✅ Clone Your New Repository
 Navigate to the directory on your local machine where you want to store your project and clone the new repository you just created.
 
 ```bash
@@ -36,7 +36,7 @@ cd ai_agent_test0104
 printf "\e]1;ai_agent_test0104\a"
 ```
 
-### 3. Download Example Code Submodules
+### 3. ✅ Download Example Code Submodules
 Your new project is linked to complete, working reference projects like `ai_tutor_test2`. Run the following command to download the code for these submodules into the `example_code/` directory.
 
 ```bash
@@ -47,24 +47,24 @@ git submodule update --init --recursive
 
 ## Plan
 
-### ☑️ NOTE: Start a new IDE Window, open it to your new folder named `new_project_name` and start your AI Coding asssitant now.
+### ☑️✅ NOTE: Start a new IDE Window, open it to your new folder named `new_project_name` and start your AI Coding asssitant now.
 ```Bash
 Gemini```
 
 ### 1. Idea.md
-☑️ Update the high level descripiton of your idea in the `idea.md` file.
+☑️✅ Update the high level descripiton of your idea in the `idea.md` file.
 - save all - cmd + ctrl+ s
 - IDE git panel > stage all > add commit msg > commit
 - IDE Terminal `Git push`
 
 ### 2. PLANNING.md
-☑️ `Read @idea.md then read and modify the @PLANNING.md document to align with my ### Iteration 1: The Core Conversation Loop of @idea.md. Explain your modifications.`
+☑️✅ `Read @idea.md then read and modify the @PLANNING.md document to align with my ### Iteration 1: The Core Conversation Loop of @idea.md. Explain your modifications.`
 
 ## 3. TASK.md
-☑️ `Read @idea.md and @PLANNING.md then read and modify @TASK.md document to align with my ### Iteration 1: The Core Conversation Loop of @idea.md and with @PLANNING.md. Explain your modifications.`
+☑️✅ `Read @idea.md and @PLANNING.md then read and modify @TASK.md document to align with my ### Iteration 1: The Core Conversation Loop of @idea.md and with @PLANNING.md. Explain your modifications.`
 
 ## 4. README.md
-☑️ `Read @idea.md, @PLANNING.md, and @TASK.md files, then read and modify the @README.md document to align with to align with my ### Iteration 1: The Core Conversation Loop of @idea.md and with @PLANNING.md and TASK.md. Explain your modifications.`
+☑️✅ `Read @idea.md, @PLANNING.md, and @TASK.md files, then read and modify the @README.md document to align with to align with my ### Iteration 1: The Core Conversation Loop of @idea.md and with @PLANNING.md and TASK.md. Explain your modifications.`
 
 ## Implement
 
@@ -131,6 +131,4 @@ git submodule add https://github.com/PatrickHeaney/ai_agent_test0103.git example
 
 #### Step 2: Review Lessons Learned and create Upgrade Plan
 
-your next task is to review all the lesson_* files summarize then create an upgrade_plan0104.md file and save it in the @1_backlog/ folder.  then review and    │
-│    update the @start_clone_create.md, @PLANNING.md, @TASK.md, and @README.md so that these issues are not create again by a new ai coading agent assiged to build │
-│     out ai_agen_test0104.  The goal is that these 4 files, plus @GEMINI.md will enable an ai coding assistant to implmeent iteration 1 of @idea.md
+your next task is to review all the lesson_* files summarize then create an upgrade_plan0104.md file and save it in the @1_backlog/ folder.  then review and update the @start_clone_create.md, @PLANNING.md, @TASK.md, and @README.md so that these issues are not create again by a new ai coading agent assiged to build out ai_agen_test0104.  The goal is that these 4 files, plus @GEMINI.md will enable an ai coding assistant to implmeent iteration 1 of @idea.md
